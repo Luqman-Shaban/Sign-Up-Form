@@ -1,0 +1,68 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    background-image: url(./images/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.container {
+    background: #2adec6;
+    text-align: center;
+    margin-left: 30%;
+    width: 630px;
+    margin-top: 110px;
+    border: 10px;
+    border-radius: 15px;
+    box-sizing: border-box;
+}
+
+fieldset {
+    border: 3px solid black;  
+    box-sizing: border-box;
+
+}
+
+legend {
+    border: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: azure;
+}
+
+legend:hover {
+    background-color: antiquewhite;
+}
+
+.main {
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+label {
+    border: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: rgba(250, 205, 122, 0.729);
+}
+
+input {
+    background-color: bisque;
+    border: 10px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+
+button{
+    border: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: azure;
+}
+
+button:hover {
+    background-color: bisque;
+}

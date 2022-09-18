@@ -1,0 +1,1 @@
+alert('Thank You for visiting this page! I am still learning DOM so please please bear with me.')
